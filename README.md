@@ -1,4 +1,4 @@
-# LiveData-DataBinding
+# LiveData + DataBinding
 ## Implement ViewModel and DataBinding
 Open build.gradle (Module: App) and add this line of code
 
